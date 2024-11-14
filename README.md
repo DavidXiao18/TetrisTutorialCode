@@ -3,12 +3,6 @@
 <html>
   <head> <//head>
   <body>
-    <style>
-    body {background-color: lightcyan;}
-    h1   {color: blue;}
-    p    {color: lightgreen;}
-    text-align: center;
-    </style>
     <h1 style="text-align: center; color: blue;">Learn Tetris!</p>
     <p style="text-align: center; color: lightgreen;">Want to learn how to play Tetris?</p>
     <a href="https://www.youtube.com/watch?v=TUuYj69Va0g">Click this link to find a tutorial! </a>
